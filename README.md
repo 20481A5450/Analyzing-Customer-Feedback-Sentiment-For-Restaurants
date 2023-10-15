@@ -29,19 +29,13 @@ These instructions will help you get a copy of the project up and running on you
    git clone https://github.com/20481A5450/Analyzing-Customer-Feedback-For-Restaurants.git
    ```
 
-2. Install the required dependencies:
-
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ### Usage
 
 1. Collect customer feedback data and place it in the `data/` directory.
 2. Run the analysis script:
 
    ```sh
-   python mmain.py
+   python main.py
    ```
 
 3. Explore the sentiment analysis results and improve your restaurant accordingly.
@@ -66,6 +60,3 @@ If you have any questions or suggestions, please feel free to reach out to us:
 
 -Shaik.Zohaib- [shaikzohaibgec@gmail.com](mailto:shaikzohaibgec@gmail.com)
 - Project Link: [https://github.com/20481A5450/Analyzing-Customer-Feedback-Sentiment-For-Restaurants](https://github.com/20481A5450/Analyzing-Customer-Feedback-Sentiment-For-Restaurants)
-```
-
-This template includes sections for an introduction, table of contents, installation instructions, usage guidelines, project features, contributing information, licensing details, and contact information. Be sure to replace placeholders with your actual project details and customize it as needed for your specific project.
