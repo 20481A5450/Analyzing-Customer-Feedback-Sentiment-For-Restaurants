@@ -31,7 +31,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Usage
 
-1. Collect customer feedback data and place it in the \zomato.csv\ file.
+1. Collect customer feedback data and place it in the 'zomato.csv\' file.
 2. Run the analysis script:
 
    ```sh
