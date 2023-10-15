@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, please feel free to reach out to us:
 
--Shaik.Zohaib- [shaikzohaibgec@gmail.com](mailto:shaikzohaibgec@gmail.com)
+- Shaik.Zohaib- [shaikzohaibgec@gmail.com](mailto:shaikzohaibgec@gmail.com)
 - Project Link: [https://github.com/20481A5450/Analyzing-Customer-Feedback-Sentiment-For-Restaurants](https://github.com/20481A5450/Analyzing-Customer-Feedback-Sentiment-For-Restaurants)
